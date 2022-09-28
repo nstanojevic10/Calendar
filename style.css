@@ -1,0 +1,20 @@
+#kalendar {
+    border: 2px solid lightblue;
+}
+
+th {
+    height: 40px;
+    text-align: center;
+    color: white;
+    background-color: navy;
+
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid navy;
+    color: navy;
+}
+
